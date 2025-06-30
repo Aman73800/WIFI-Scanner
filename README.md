@@ -2,6 +2,18 @@
 
 This is a simple **Wi-Fi Scanner** built with Python that scans all nearby Wi-Fi networks and displays key information such as SSID, signal strength (in dBm), and security type.
 
+## 📺 Video Tutorial
+
+To learn how this project works step by step, watch the YouTube video below:
+
+[![Watch the video](https://img.youtube.com/vi/vkolPBR_O2c/0.jpg)](https://youtu.be/vkolPBR_O2c)
+
+👉 [Click here to watch the video](https://youtu.be/vkolPBR_O2c)
+
+## OUTPUT
+![Extra Image](https://media.licdn.com/dms/image/v2/D5622AQECbaiZX9iuhw/feedshare-shrink_1280/B56ZeEGkeBGoAo-/0/1750268004817?e=1753920000&v=beta&t=-cItJrK5EF5VX9jt0OSrtajgobaonLB4EnVJGgPjrXs)
+
+
 ## 📌 Features
 
 * Scans all available Wi-Fi networks
